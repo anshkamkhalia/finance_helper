@@ -1,0 +1,3 @@
+
+    f.close()
+    return currentUsers

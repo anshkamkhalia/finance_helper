@@ -1,0 +1,1 @@
+{'food': 100, 'travel': 200, 'entertainment': 300, 'utilities': 400, 'other': 500, 'monthly_budget': 10000, 'predictedExpenses': 45000}
